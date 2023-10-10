@@ -5,47 +5,53 @@ Sou um desenvolvedor back-end júnior apaixonado por tecnologia, com conheciment
 
 ## Habilidades
 
-### Linguagens de Programação:
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="30" height="30"> Java
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="30" height="30"> Python
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" width="30" height="30"> JavaScript (Node.js)
+- **Linguagens de Programação:**
+  - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="30" height="30"> Java
+  - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="30" height="30"> Python
+  - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" width="30" height="30"> JavaScript (Node.js)
 
-### Frameworks:
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="30" height="30"> Spring Boot
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="30" height="30"> React
-- <img src="https://cdn.ourcodeworld.com/public-media/gallery/categorielogo-57b2ed423aaa1.png" width="30" height="30"> Django
+- **Frameworks:**
+  - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="30" height="30"> Spring Boot
+  - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="30" height="30"> React
+  - <img src="https://cdn.ourcodeworld.com/public-media/gallery/categorielogo-57b2ed423aaa1.png" width="30" height="30"> Django
 
-### Banco de Dados:
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="30" height="30"> MySQL
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="30" height="30"> MongoDB
 
-### Contêinerização:
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="30" height="30"> Docker
+- **Banco de Dados:**
+  - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="30" height="30"> MySQL
+  - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="30" height="30"> MongoDB
 
-### Outras Habilidades:
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="30" height="30"> Git
-- <img src="https://th.bing.com/th/id/OIP.j0YXr3h-bqELV5F7pvZwZQAAAA?pid=ImgDet&rs=1" width="30" height="30"> RESTful API design
-- Desenvolvimento Ágil
-- Trabalho em Equipe
+- **Contêinerização:**
+  - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="30" height="30"> Docker
+
+- **Outras Habilidades:**
+  - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="30" height="30"> Git
+  - <img src="https://th.bing.com/th/id/OIP.j0YXr3h-bqELV5F7pvZwZQAAAA?pid=ImgDet&rs=1" width="30" height="30"> RESTful API design
+  - Desenvolvimento Ágil
+  -  Trabalho em Equipe
+
+
 
 ## Projetos Destacados
 
-1. [Projeto Battle-Pokemon](https://github.com/pedroveronez2/Battle-Pokemon)
-   - Este é um projeto que consiste em uma API Spring Boot para acessar dados de Pokémons e um aplicativo React que consome essa API. A API consome a PokeAPI para obter informações detalhadas sobre Pokémons e fornece endpoints para acessar informações individuais e listas de Pokémons.
+1. [Projeto Battle-Pokemon](https://github.com/pedroveronez2/Battle-Pokemon) - Este é um projeto que consiste em uma API Spring Boot para acessar dados de Pokémons e um aplicativo React que consome essa API. A API consome a PokeAPI para obter informações detalhadas sobre Pokémons e fornece endpoints para acessar informações individuais e listas de Pokémons.
 
 ## Experiência
 
 - **Trabalho Freelancer** - Desenvolvedor de Sites WordPress
   - Durante meu tempo como freelancer, desenvolvi websites personalizados para clientes, principalmente usando WordPress. Isso envolveu a criação de layouts, customização de temas, integração de plugins e garantia de que os sites atendessem às necessidades específicas de cada cliente. Além disso, gerenciava o relacionamento com os clientes, discutindo requisitos, prazos e entregas.
 
+
 ## Educação
 
 - **Ciência da Computação - incompleta** - Faculdade Impacta (inicio e finalização no mesmo ano de 2023)
-  - Motivo:
-    Eu decidi largar a faculdade de Ciências da Computação para buscar o aprendizado por conta própria. Minha paixão pelo aprendizado autodidata me levou a aprimorar minhas habilidades em programação, trabalhar em projetos desafiadores e colaborar com outros desenvolvedores. Minha jornada tem sido gratificante, e hoje sou um desenvolvedor de software apaixonado e competente. Largar a faculdade foi a escolha certa para mim, mas lembre-se de que cada pessoa tem sua própria jornada única no mundo da tecnologia. Siga sua paixão e encontre a melhor maneira de aprender e crescer.
+
+Motivo:
+
+Eu decidi largar a faculdade de Ciências da Computação para buscar o aprendizado por conta própria. Minha paixão pelo aprendizado autodidata me levou a aprimorar minhas habilidades em programação, trabalhar em projetos desafiadores e colaborar com outros desenvolvedores. Minha jornada tem sido gratificante, e hoje sou um desenvolvedor de software apaixonado e competente. Largar a faculdade foi a escolha certa para mim, mas lembre-se de que cada pessoa tem sua própria jornada única no mundo da tecnologia. Siga sua paixão e encontre a melhor maneira de aprender e crescer.
 
 ## Contato
 
-- LinkedIn: [Pedro Veronez](https://www.linkedin.com/in/pedro-augusto-10108b236/)
-- Email: [pedroveronez90@gmail.com](mailto:pedroveronez90@gmail.com)
-- Instagram: [pedroacv_loko](https://www.instagram.com/pedroacv_loko/)
+- <a href="https://www.linkedin.com/in/pedro-augusto-10108b236/" rel="nofollow"><img src="https://camo.githubusercontent.com/c00f87aeebbec37f3ee0857cc4c20b21fefde8a96caf4744383ebfe44a47fe3f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c696e6b6564496e2d2532333030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;"></a>
+- <a href="mailto:pedroveronez90@gmail.com"><img src="https://camo.githubusercontent.com/927d6b3961fa048ff7303daf291cb5869dfa25018997cf8c1373c2f6a85b1458/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d476d61696c2d2532333333333f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" style="max-width: 100%;"></a>
+
+- <a href="https://www.instagram.com/pedroacv_loko/" rel="nofollow"><img src="https://camo.githubusercontent.com/acaa286597b43c96dc02b69b90de15a65c52063e31835b763a061cc815f64bac/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d496e7374616772616d2d2532334534343035463f7374796c653d666f722d7468652d6261646765266c6f676f3d696e7374616772616d266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&amp;logo=instagram&amp;logoColor=white" style="max-width: 100%;"></a>
