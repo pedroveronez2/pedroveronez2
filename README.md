@@ -24,8 +24,4 @@ Sou um desenvolvedor back-end júnior apaixonado por tecnologia, com conheciment
 
 ## Educação
 
-- **Ciência da Computação - incompleta** - Faculdade Impacta (inicio e finalização no mesmo ano de 2023)
-
-Motivo:
-
-Eu decidi largar a faculdade de Ciências da Computação para buscar o aprendizado por conta própria. Minha paixão pelo aprendizado autodidata me levou a aprimorar minhas habilidades em programação, trabalhar em projetos desafiadores e colaborar com outros desenvolvedores. Minha jornada tem sido gratificante, e hoje sou um desenvolvedor de software apaixonado e competente. Largar a faculdade foi a escolha certa para mim, mas lembre-se de que cada pessoa tem sua própria jornada única no mundo da tecnologia. Siga sua paixão e encontre a melhor maneira de aprender e crescer.
+- **Ciência da Computação - Cursando** - Faculdade Impacta (2024 a 2028)
