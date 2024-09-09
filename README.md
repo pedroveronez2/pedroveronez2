@@ -1,10 +1,10 @@
 ## Olá, eu sou Pedro Augusto de Carvalho Veronez!
 
-Atualmente, estou cursando Ciências da Computação na Faculdade Impacta. Embora eu esteja nos estágios iniciais da minha carreira, tenho direcionado meu foco para as áreas de Ciência de Dados e Machine Learning, nas quais já acumulei uma valiosa experiência prática. Através de projetos pessoais e diversos cursos especializados, desenvolvi competências sólidas em análise de dados e algoritmos de aprendizado de máquina.
+Olá! Atualmente, estou cursando Ciências da Computação na Faculdade Impacta e tenho me dedicado às áreas de Ciência de Dados e Machine Learning. Embora esteja nos estágios iniciais da minha carreira, já acumulei experiência prática valiosa através de projetos pessoais e cursos especializados. Desenvolvi competências sólidas em análise de dados e algoritmos de aprendizado de máquina.
 
-Além disso, estou constantemente expandindo meus conhecimentos por meio de iniciativas práticas que me permitem aplicar teorias a problemas reais. Minha dedicação e curiosidade têm sido os motores que impulsionam minha evolução no setor, me permitindo adquirir uma compreensão profunda das ferramentas e técnicas mais modernas.
+Neste GitHub, você encontrará diversos projetos relacionados a Inteligência Artificial e Machine Learning, além de iniciativas na área de Ciência de Dados e análise de dados. Também disponibilizo pequenos tutoriais para ajudar na compreensão de conceitos e técnicas.
 
-Embora eu ainda esteja construindo minha trajetória profissional, já alcancei conquistas significativas em meus projetos e continuo a me desafiar para crescer na área de tecnologia. Estou ansioso para aplicar minhas habilidades em ambientes profissionais e contribuir para projetos de impacto.
+Espero que você encontre algo interessante e útil. Fique à vontade para explorar os projetos e tutoriais. Estou ansioso para compartilhar conhecimento e contribuir para a comunidade de tecnologia!
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Pedro-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
