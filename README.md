@@ -7,9 +7,14 @@ Neste GitHub, você encontrará diversos projetos relacionados a Inteligência A
 Espero que você encontre algo interessante e útil. Fique à vontade para explorar os projetos e tutoriais. Estou ansioso para compartilhar conhecimento e contribuir para a comunidade de tecnologia!
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Pedro-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Pedro-MongoDB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
-  <img align="center" alt="Pedro-SQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+  <ul>
+    <li>Python</li>
+    <li>Inteligência Artificial</li>
+    <li>Machine Learning</li>
+    <li>Ciencias de Dados</li>
+    <li>Analise de Dados</li>
+    <li>SQL</li>
+  </ul>
 </div>
 
 ##
