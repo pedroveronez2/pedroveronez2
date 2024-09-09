@@ -1,7 +1,11 @@
-# Pedro Veronez - Desenvolvedor Back-end Júnior
+# Pedro Veronez - Cientista e Analista de Dados
 
 ## Sobre mim
-Sou um desenvolvedor back-end júnior apaixonado por tecnologia, com conhecimento em várias tecnologias e frameworks, incluindo 🚀 Java, Spring Boot, React, Node.js, Python, 🐬 MySQL, 🍃 MongoDB, 🐳 Docker e React.
+Sou Pedro Augusto de Carvalho Veronez, estudante de Ciências da Computação na Faculdade Impacta. Embora eu esteja no início da minha jornada na área de Ciência de Dados e Machine Learning, já tenho experiência em diversos projetos pessoais que me permitiram explorar e desenvolver minhas habilidades nessas áreas. Através de cursos especializados e práticas aplicadas, adquiri uma base sólida em análise de dados e algoritmos de aprendizado de máquina.
+
+Meu interesse por tecnologia vai além da sala de aula, e estou constantemente buscando oportunidades para aplicar meus conhecimentos em projetos do mundo real. Cada experiência me ajuda a aprimorar minhas competências técnicas e me prepara para desafios mais complexos no futuro. Embora eu ainda esteja construindo minha carreira, estou ansioso para enfrentar novos desafios e continuar evoluindo como profissional.
+
+
 
 
 ## Habilidades
