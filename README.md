@@ -1,16 +1,15 @@
-# 🤖 PEDRO AUGUSTO DE CARVALHO VERONEZ  
-## Data Scientist | Back-End Developer | Real-World AI in Action
+# 👋 Pedro Augusto Veronez
 
-<!-- Contribution Graph -->
+## Full-Stack Developer | Java | C# | Game Development | Artificial Intelligence
+
 ![Status](./profile-3d-contrib/profile-night-rainbow.svg)
 
-<!-- GitHub Summary Cards -->
 | [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pedroveronez&theme=dracula&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pedroveronez&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |
 | ----------- | ----------- |
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,jupyter,aws,git,vscode,linux,sql,mysql,postgres,sklearn,pandas,numpy,matplotlib,github,postman,html,css,nodejs,express,nestjs,figma" />
+    <img src="https://skillicons.dev/icons?i=java,spring,cs,dotnet,react,js,ts,nodejs,express,python,unity,unreal,git,github,docker,mysql,postgres,html,css,linux,vscode,visualstudio,idea,postman" />
   </a>
 </div>
 
@@ -20,38 +19,101 @@
 
 ---
 
-### 🧠 Real AI, No Nonsense
+# 💻 About Me
 
-If you're here looking for fluff, motivational quotes, or buzzwords — you're in the wrong place.  
-This profile is about **Artificial Intelligence**, **Machine Learning**, and **practical Data Science** that actually solves problems.
+I'm currently studying **Systems Analysis and Development** at **Faculdade Impacta** (São Paulo, Brazil).
 
-I'm a **Computer Science student** at Faculdade Impacta (São Paulo, Brazil) working on **real-world projects** that require thinking, testing, and building — not pretending.
+I'm passionate about building software that solves real problems. Most of my time is dedicated to developing Full-Stack applications, learning software architecture, creating APIs, and exploring new technologies.
 
-If it doesn't help me code better, learn deeper, or build smarter, I’m not wasting time on it.
+Recently, I've also started studying **Game Development**, creating small projects with **Unity** and **Unreal Engine** to improve my programming and game design skills.
 
----
-
-### 🚀 What I Actually Do:
-
-- 🤖 **Artificial Intelligence** — building real predictive models with measurable results.
-- 🔬 **Machine Learning** — from preprocessing to deployment, no shortcuts.
-- 📊 **Data Science** — gathering, cleaning, analyzing, and visualizing real value.
-- 🧪 **Python, Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn**
-- 🗄️ **SQL, PostgreSQL, MySQL** — because messy data is useless data.
-- 🖥️ **Back-End Development** — Node.js, Express, NestJS, REST APIs, JWT auth, etc.
-- ☁️ **AWS** — EC2, S3, Lambda and other cloud services to scale and deploy smartly.
-- ⚙️ **Jupyter, Google Colab, Git, Postman, Linux** — my daily tools for exploration and control.
+I enjoy learning by building real projects and sharing everything I create on GitHub and YouTube.
 
 ---
 
-### 📡 Let’s Connect
+# 🚀 Current Focus
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-veronez/)  
-[![Gmail](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pedroveronez90@gmail.com)  
-[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pedro0loko/)  
-[![Facebook](https://img.shields.io/badge/-Facebook-%231877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100014794424169)
+- ☕ Java
+- ⚙️ Spring Boot
+- 🔷 C#
+- 🌐 ASP.NET Core
+- ⚛️ React
+- 📦 REST APIs
+- 🗄️ MySQL & PostgreSQL
+- 🐳 Docker
+- 🤖 Artificial Intelligence
+- 🎮 Unity
+- 🎮 Unreal Engine
+- 🔧 Software Architecture
+- ☁️ Cloud Fundamentals
 
 ---
 
-If you're into building real stuff with AI, data, and clean code — welcome.  
-If not... you can close this tab now.
+# 🎮 Game Development
+
+Game development is one of my newest learning goals.
+
+I'm currently studying:
+
+- Unity
+- Unreal Engine 5
+- C#
+- Blueprints
+- Gameplay Programming
+- Level Design fundamentals
+
+The projects are simple on purpose: every game teaches me a new programming concept.
+
+I'll continue publishing my progress here on GitHub and also on YouTube.
+
+---
+
+# 🤖 Artificial Intelligence
+
+Although my current focus is Full-Stack Development, I continue studying Artificial Intelligence and Machine Learning.
+
+I enjoy experimenting with:
+
+- Machine Learning
+- LLMs
+- AI Chatbots
+- Python
+- Data Analysis
+- Automation
+
+---
+
+# 📂 Featured Projects
+
+- 💻 Full-Stack Web Applications
+- 🤖 AI Chatbot
+- 🌐 REST APIs
+- 🎮 Unity Games
+- 🎮 Unreal Engine Projects
+- ⚙️ Automation Tools
+
+---
+
+# 📈 Goals for 2026
+
+- Build larger Full-Stack applications
+- Publish more Open Source projects
+- Improve Java and .NET skills
+- Create complete games with Unity and Unreal Engine
+- Continue sharing knowledge on YouTube
+
+---
+
+# 📡 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-veronez/)
+
+[![Gmail](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pedroveronez90@gmail.com)
+
+[![YouTube](https://img.shields.io/badge/-YouTube-red?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/SEU_CANAL)
+
+[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pedro0loko/)
+
+---
+
+> *"Keep building. Every project is one step closer to mastery."*
