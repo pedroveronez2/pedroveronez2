@@ -110,9 +110,9 @@ I enjoy experimenting with:
 
 [![Gmail](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pedroveronez90@gmail.com)
 
-[![YouTube](https://img.shields.io/badge/-YouTube-red?style=for-the-badge&logo=youtube&logoColor=white)]([https://youtube.com/SEU_CANAL](https://www.youtube.com/@PedroLoko-x2p)
+[![YouTube](https://img.shields.io/badge/-YouTube-red?style=for-the-badge&logo=youtube&logoColor=white)]([https://youtube.com/SEU_CANAL](https://www.youtube.com/@PedroLoko-x2p))
 
-[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)]([https://www.instagram.com/pedro0loko/](https://www.instagram.com/pedr0veronez/)
+[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)]([https://www.instagram.com/pedro0loko/](https://www.instagram.com/pedr0veronez/))
 
 ---
 
